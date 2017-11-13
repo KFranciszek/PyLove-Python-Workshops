@@ -1,0 +1,66 @@
+Luke Skywalker  wa퓓 77 kg jest male i pochodzi z <brak danych>
+C-3PO  wa퓓 75 kg jest n/a i pochodzi z <brak danych>
+R2-D2  wa퓓 32 kg jest n/a i pochodzi z <brak danych>
+Darth Vader  wa퓓 136 kg jest male i pochodzi z <brak danych>
+Leia Organa  wa퓓 49 kg jest female i pochodzi z <brak danych>
+Owen Lars  wa퓓 120 kg jest male i pochodzi z <brak danych>
+Beru Whitesun lars  wa퓓 75 kg jest female i pochodzi z <brak danych>
+R5-D4  wa퓓 32 kg jest n/a i pochodzi z <brak danych>
+Biggs Darklighter  wa퓓 84 kg jest male i pochodzi z <brak danych>
+Obi-Wan Kenobi  wa퓓 77 kg jest male i pochodzi z <brak danych>
+Anakin Skywalker  wa퓓 84 kg jest male i pochodzi z <brak danych>
+Wilhuff Tarkin  wa퓓 unknown kg jest male i pochodzi z <brak danych>
+Chewbacca  wa퓓 112 kg jest male i pochodzi z <brak danych>
+Han Solo  wa퓓 80 kg jest male i pochodzi z <brak danych>
+Greedo  wa퓓 74 kg jest male i pochodzi z <brak danych>
+Jabba Desilijic Tiure  wa퓓 1,358 kg jest hermaphrodite i pochodzi z <brak danych>
+Wedge Antilles  wa퓓 77 kg jest male i pochodzi z <brak danych>
+Jek Tono Porkins  wa퓓 110 kg jest male i pochodzi z <brak danych>
+Yoda  wa퓓 17 kg jest male i pochodzi z <brak danych>
+Palpatine  wa퓓 75 kg jest male i pochodzi z <brak danych>
+Boba Fett  wa퓓 78.2 kg jest male i pochodzi z <brak danych>
+IG-88  wa퓓 140 kg jest none i pochodzi z <brak danych>
+Bossk  wa퓓 113 kg jest male i pochodzi z <brak danych>
+Lando Calrissian  wa퓓 79 kg jest male i pochodzi z <brak danych>
+Lobot  wa퓓 79 kg jest male i pochodzi z <brak danych>
+Ackbar  wa퓓 83 kg jest male i pochodzi z <brak danych>
+Mon Mothma  wa퓓 unknown kg jest female i pochodzi z <brak danych>
+Arvel Crynyd  wa퓓 unknown kg jest male i pochodzi z <brak danych>
+Wicket Systri Warrick  wa퓓 20 kg jest male i pochodzi z <brak danych>
+Nien Nunb  wa퓓 68 kg jest male i pochodzi z <brak danych>
+Qui-Gon Jinn  wa퓓 89 kg jest male i pochodzi z <brak danych>
+Nute Gunray  wa퓓 90 kg jest male i pochodzi z <brak danych>
+Finis Valorum  wa퓓 unknown kg jest male i pochodzi z <brak danych>
+Luke Skywalker  wa퓓 77 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+C-3PO  wa퓓 75 kg jest n/a i pochodzi z <KeyError odno쐍ie homeworld>
+R2-D2  wa퓓 32 kg jest n/a i pochodzi z <KeyError odno쐍ie homeworld>
+Darth Vader  wa퓓 136 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Leia Organa  wa퓓 49 kg jest female i pochodzi z <KeyError odno쐍ie homeworld>
+Owen Lars  wa퓓 120 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Beru Whitesun lars  wa퓓 75 kg jest female i pochodzi z <KeyError odno쐍ie homeworld>
+R5-D4  wa퓓 32 kg jest n/a i pochodzi z <KeyError odno쐍ie homeworld>
+Biggs Darklighter  wa퓓 84 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Obi-Wan Kenobi  wa퓓 77 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Anakin Skywalker  wa퓓 84 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Wilhuff Tarkin  wa퓓 unknown kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Chewbacca  wa퓓 112 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Han Solo  wa퓓 80 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Greedo  wa퓓 74 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Jabba Desilijic Tiure  wa퓓 1,358 kg jest hermaphrodite i pochodzi z <KeyError odno쐍ie homeworld>
+Wedge Antilles  wa퓓 77 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Jek Tono Porkins  wa퓓 110 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Yoda  wa퓓 17 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Palpatine  wa퓓 75 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Boba Fett  wa퓓 78.2 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+IG-88  wa퓓 140 kg jest none i pochodzi z <KeyError odno쐍ie homeworld>
+Bossk  wa퓓 113 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Lando Calrissian  wa퓓 79 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Lobot  wa퓓 79 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Ackbar  wa퓓 83 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Mon Mothma  wa퓓 unknown kg jest female i pochodzi z <KeyError odno쐍ie homeworld>
+Arvel Crynyd  wa퓓 unknown kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Wicket Systri Warrick  wa퓓 20 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Nien Nunb  wa퓓 68 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Qui-Gon Jinn  wa퓓 89 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Nute Gunray  wa퓓 90 kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
+Finis Valorum  wa퓓 unknown kg jest male i pochodzi z <KeyError odno쐍ie homeworld>
